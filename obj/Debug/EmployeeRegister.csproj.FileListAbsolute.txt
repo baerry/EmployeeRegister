@@ -69,3 +69,5 @@ c:\users\h3pta\onedrive\dokument\visual studio 2017\Projects\EmployeeRegister\Em
 c:\users\h3pta\onedrive\dokument\visual studio 2017\Projects\EmployeeRegister\EmployeeRegister\obj\Debug\EmployeeRegister.csprojResolveAssemblyReference.cache
 c:\users\h3pta\onedrive\dokument\visual studio 2017\Projects\EmployeeRegister\EmployeeRegister\obj\Debug\EmployeeRegister.dll
 c:\users\h3pta\onedrive\dokument\visual studio 2017\Projects\EmployeeRegister\EmployeeRegister\obj\Debug\EmployeeRegister.pdb
+c:\users\h3pta\onedrive\dokument\visual studio 2017\Projects\EmployeeRegister\EmployeeRegister\obj\Debug\EmployeeRegister.Migrations.Init.resources
+c:\users\h3pta\onedrive\dokument\visual studio 2017\Projects\EmployeeRegister\EmployeeRegister\obj\Debug\EmployeeRegister.csproj.GenerateResource.Cache
